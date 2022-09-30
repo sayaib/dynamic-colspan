@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/lib/index.css"],"names":[],"mappings":"AAAA,MACI,gBAAkB,CAEtB,MACI,wBAA0B","file":"css/index.css","sourcesContent":["th,td{\r\n    border: 1px solid;\r\n}\r\ntable{\r\n    border-collapse: collapse;\r\n}\n\n\n// WEBPACK FOOTER //\n// ./src/lib/index.css"],"sourceRoot":""}
